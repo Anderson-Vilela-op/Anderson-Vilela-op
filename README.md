@@ -1,7 +1,7 @@
 ### Olá! Eu sou Anderson vilela 👋
 
-- 🎓 P1 Ciência da Computação
-- 📜 Estudando HTML/CSS
+- 🎓 P2 Ciência da Computação
+- 📜 Estudando JavaScript
 - 🤗 Pronouns: ele/dele
 
 <div align="left">
