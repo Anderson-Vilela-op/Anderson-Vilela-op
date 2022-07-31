@@ -40,7 +40,9 @@
 </p>
 
 <div align="center">  
-<a href="www.instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/_lucas_vilela/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.reddit.com/user/Putrid-Tour134" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anderson-lucas-239071232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
   
 
