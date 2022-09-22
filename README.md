@@ -1,5 +1,5 @@
     
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Anderson Lucas B. Vilela&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+ 
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Anderson+Lucas+B.+Vilela;I'm+20+years+old;I+from+Brasil,+PB;I+study+Computer+Science+at+Unipê;Be+Welcome!+:%29)](https://git.io/typing-svg)
   
@@ -19,6 +19,7 @@
 <a href="https://www.reddit.com/user/Putrid-Tour134" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/anderson-lucas-239071232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:andersonvilela.al@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://myprotifolio.vercel.app/" target="_brank">Meu Portifolio</a>
 </div>
 
 ### Main skills:
