@@ -5,9 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andersonvilela&label=Profile%20views&color=0e75b6&style=flat" alt="andersonvilela" /> </p>
 
-- 📝 I regularly write articles on [HTTPS://blog-lilac-tem.vercel.app/](HTTPS://blog-lilac-tem.vercel.app/)
+- 📝 I regularly write articles on [Blog](https://tablognews.netlify.app/)
 
 - 💬 Ask me about *React, vue*
+
+- My Website Portifolio on [Portifolio](https://andersonvilela-portifolio.netlify.app/) 
 
 - 📫 How to reach me *Andersonvilela.al@gmail.com*
 
