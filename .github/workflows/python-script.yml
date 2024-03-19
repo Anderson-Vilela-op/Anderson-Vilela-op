@@ -24,4 +24,4 @@ jobs:
     - name: Run script
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # Passa o token de acesso como uma variável de ambiente
-      run: python path/to/your/script.py
+      run: python main.py
