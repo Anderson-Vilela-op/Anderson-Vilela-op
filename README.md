@@ -42,11 +42,11 @@ Breve descrição do projeto, destacando o que você desenvolveu e o impacto da 
 
 Aqui estão os cursos que concluí e o que estou estudando no momento:
 
-- **[ASP.NET 2026 do 0 à Azure e GCP com ASP .NET 10 Docker e K8s
-]** — 🚧 *Em aprendizado*
 - **[C# COMPLETO Programação Orientada a Objetos + Projetos
 ]** — [Visualizar Certificado](https://github.com/Anderson-Vilela-op/Anderson-Vilela-op/blob/main/certs/UC-59ac6ed2-c0d0-4ff8-9611-fb86c5cc2a08.pdf)
 
+- **[.NET Core: um curso orientado para o mercado de trabalho.
+]** — [Visualizar Certificado](https://github.com/Anderson-Vilela-op/Anderson-Vilela-op/blob/main/certs/UC-dd617d72-c76b-441f-9bab-fd95ea2787bb.pdf)
 
 ---
 
